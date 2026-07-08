@@ -1,0 +1,6 @@
+{
+  "name": "APK Extractor",
+  "description": "Query installed apps on your device, extract them to APK files, backup, and share them easily.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
